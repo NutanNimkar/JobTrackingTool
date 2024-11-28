@@ -39,17 +39,18 @@ JobTrackingTool is a web application designed to simplify job application manage
    ```bash
    git clone https://github.com/your-username/JobTrackingTool.git
    cd JobTrackingTool
-2.
-  ```bash
-  cd backend
-3.
-  ```bash
-  mvn spring-boot:run
-4.
-  ```bash
-  cd frontend
-5.
-```bash
-  npm install
-  npm start
+2. Start backend
+   ```bash
+   cd backend
+3. Start backend
+   ```bash
+   mvn spring-boot:run
+
+4. Start frontend
+   ```bash
+   cd frontend
+4. Start frontend
+   ```bash
+   npm install
+   npm start
 
